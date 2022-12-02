@@ -1,0 +1,5 @@
+dependencies {
+    implementation group: 'org.apache.curator', name: 'curator-client', version: '2.12.0'
+    implementation group: 'org.apache.curator', name: 'curator-recipes', version: '2.12.0'
+    implementation group: 'org.apache.curator', name: 'curator-test', version: '2.12.0'
+}
